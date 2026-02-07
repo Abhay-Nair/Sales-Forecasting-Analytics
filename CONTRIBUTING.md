@@ -8,7 +8,7 @@ Thank you for your interest in contributing! 🎉
 
 If you find a bug or have a suggestion:
 
-1. Check if the issue already exists in [Issues](https://github.com/abhay/sales-forecasting-project/issues)
+1. Check if the issue already exists in [Issues](https://github.com/Abhay-Nair/Sales-Forecasting-Analytics/issues)
 2. If not, create a new issue with:
    - Clear title and description
    - Steps to reproduce (for bugs)
