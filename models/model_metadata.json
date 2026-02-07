@@ -1,0 +1,20 @@
+{
+  "model_type": "SARIMA",
+  "order": [
+    1,
+    1,
+    1
+  ],
+  "seasonal_order": [
+    1,
+    1,
+    1,
+    12
+  ],
+  "n_observations": 48,
+  "date_range": "2011-01-31 00:00:00 to 2014-12-31 00:00:00",
+  "aic": 479.9558142007064,
+  "bic": 485.17842638932353,
+  "saved_at": "2026-02-07T14:02:31.315865",
+  "model_file": "C:\\Users\\abhay\\Desktop\\mine\\sales-forecasting-project\\models\\sarima_model.pkl"
+}

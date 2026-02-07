@@ -1,0 +1,117 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv
+virtualenv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Model files (large files - uncomment if you don't want to track models)
+# models/*.pkl
+# models/*.joblib
+# models/*.h5
+
+# Logs
+*.log
+logs/*.log
+
+# Data files (uncomment if data files are too large for git)
+# data/raw/*.csv
+# data/processed/*.csv
+
+# Results/Output (uncomment if you don't want to track generated files)
+# results/*.png
+# results/*.csv
+# results/*.html
+
+# Distribution / packaging
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Sphinx documentation
+docs/_build/
+
+# PyBuilder
+target/
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# OS
+Thumbs.db
+.DS_Store
+*.bak
+*.tmp
+
+# Power BI
+*.pbix.tmp
+
+# Temporary files
+temp/
+tmp/
+*.temp
+
+# Extra
+COMPLETE_PROJECT_GUIDE.md
+IMPROVEMENTS.md
+GITHUB_UPLOAD_GUIDE.md
+DEPLOYMENT_CHECKLIST.md 
+FINAL_UPDATES.md
+PROJECT_SUMMARY.md
