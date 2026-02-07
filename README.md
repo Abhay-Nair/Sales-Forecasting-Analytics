@@ -7,8 +7,6 @@
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/abhay/sales-forecasting-project/graphs/commit-activity)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
-[![GitHub issues](https://img.shields.io/github/issues/abhay/sales-forecasting-project)](https://github.com/abhay/sales-forecasting-project/issues)
-[![GitHub stars](https://img.shields.io/github/stars/abhay/sales-forecasting-project)](https://github.com/abhay/sales-forecasting-project/stargazers)
 
 ## 🎯 Project Overview
 
