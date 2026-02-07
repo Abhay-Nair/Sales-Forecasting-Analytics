@@ -360,9 +360,8 @@ Please read our [Code of Conduct](CODE_OF_CONDUCT.md) before contributing.
 ## 👤 Author
 
 **Abhay**
-- GitHub: [@abhay](https://github.com/abhay)
-- LinkedIn: [Abhay](https://linkedin.com/in/abhay)
-- Portfolio: [Your Portfolio](https://yourportfolio.com)
+- GitHub: [@abhay](https://github.com/Abhay-Nair)
+- LinkedIn: [Abhay](https://www.linkedin.com/in/abhay-nair-1b9293232/)
 
 ## 🙏 Acknowledgments
 
